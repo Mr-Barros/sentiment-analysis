@@ -1,6 +1,13 @@
-ipykernel
+ipykernel 
+ipywidgets
 pandas
 numpy
 matplotlib
 seaborn
+scipy
 nltk
+transformers
+torch
+torchvision
+tensorflow
+tensorflow_hub
