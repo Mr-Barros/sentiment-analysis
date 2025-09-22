@@ -9,5 +9,4 @@ nltk
 transformers
 torch
 torchvision
-tensorflow
-tensorflow_hub
+scikit-learn
